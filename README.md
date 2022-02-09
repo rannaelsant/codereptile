@@ -1,5 +1,5 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=codereptile&label=Profile%20views&color=0e75b6&style=flat" alt="codereptile" />
-<h1 align="center">Hi 👋, I'm Codereptile!</h1> 
+<h1 align="center">Hi 👋, I'm Artem Ageev (a.k.a. codereptile)!</h1> 
 
 ## About me:
 
