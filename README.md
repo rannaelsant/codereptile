@@ -3,10 +3,11 @@
 
 ## About me:
 
-My main hobby is [a youtube channel](https://www.youtube.com/c/CodeReptile) (in Russian).
+I have [a youtube channel](https://www.youtube.com/c/CodeReptile) (in Russian).
 
 I like Cryptography, Drones and Math.
 
+My main project is the [code visualizer](https://github.com/codereptile/visualizer).
 
 ## Languages and tools:
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codereptile&layout=compact&theme=aura&hide_border=true"/>
