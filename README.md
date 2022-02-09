@@ -1,20 +1,21 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=codereptile&label=Profile%20views&color=0e75b6&style=flat" alt="codereptile" />
 <h1 align="center">Hi 👋, I'm Codereptile!</h1> 
 
+## About me:
+
+My main hobby is [a youtube channel](https://www.youtube.com/c/CodeReptile) (in Russian).
+
+I like Cryptography, Drones and Math.
+
+
 ## Languages and tools:
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codereptile&layout=compact&theme=aura&hide_border=true"/>
+
 I prefer using C++ and Python.
 
 Worked with CI/CD and Docker (see my [telegram-bot](https://github.com/codereptile/codereptile_cryptography_bot)).
 
-<br/><br/>
-<br/><br/>
-
-
-
-
-
-
+Also know: Latex, Linux, Git.
 
 ## Various metrics:
 
