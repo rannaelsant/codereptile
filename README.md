@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Codereptile!  <img align="right" src="https://komarev.com/ghpvc/?username=codereptile&label=Profile%20views&color=0e75b6&style=flat" alt="codereptile" /></h1>
+<img align="right" src="https://komarev.com/ghpvc/?username=codereptile&label=Profile%20views&color=0e75b6&style=flat" alt="codereptile" />
+<h1 align="center">Hi 👋, I'm Codereptile!</h1> 
 
 ## Languages and tools:
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codereptile&layout=compact&theme=aura&hide_border=true"/>
