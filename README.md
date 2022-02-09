@@ -3,7 +3,8 @@
 
 ## About me:
 
-I have [a youtube channel](https://www.youtube.com/c/CodeReptile) (in Russian).
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCCwBxTgq5AFtSIaTllFRUKQ?style=for-the-badge&label=My+youtube)](https://www.youtube.com/c/CodeReptile)
+[![Discord](https://img.shields.io/discord/790643218953011220?style=for-the-badge&label=My+Discord)](https://discord.com/invite/e5vCkfZpNJ)
 
 I like Cryptography, Drones and Math.
 
